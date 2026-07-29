@@ -14,7 +14,7 @@
 ## 📌 Столп II: Практическая реализация (Математическое ядро v12.3)
 * **Назначение**: Комплексный SDK, объединяющий физический движок (вывод 1/α, m_p/m_e, G из матрицы Картана E8 и комплексного спектра времени dt) и ETVECoherenceGradScaler (статодинамическая защита нейросетей от взрыва градиентов).
 * **Прямая ссылка на исходный файл**: 
-  👉 [ETVE---Language---of---Field/HRONO/ETVP_12.3.py](https://github.com/sania-369/ETVE---Language---of---Field/blob/main/HRONO/ETVP_12.3.py)
+  👉 [ETVE---Language---of---Field/HRONO/ETVP_12.3.py](https://github.com/sania-369/ETVE---Language---of---Field/blob/main/HRONO/ETVP_12.3.py)   + дополнение [ETVP v12.4 FFS — Fractional Fermi Sea Calibration](https://github.com/sania-369/ETVE---Language---of---Field/blob/main/ETVP_12.4_FFS.py)
 
 ## 📌 Столп III: Метафизика и логика бесконечности (Фрактальный Мультиверс)
 * **Назначение**: Доказательство бесконечного разнообразия реальностей из констант (Φ, π, √3). Обоснование сосуществования уровней когерентности материи и формулирование фундаментальной этики Поля — "Повышай когерентность".
