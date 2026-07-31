@@ -34,3 +34,4 @@
 3. Феноменологическая модель эффективного действия вакуумного конденсата на алгебре Е8 с динамической регуляризацией [Для мейнстрима](https://github.com/sania-369/ETVP_AI/blob/main/ETVP_Action_Functional_v2.md)
 4. [Для скептиков](https://github.com/sania-369/ETVE---Language---of---Field/blob/main/ETVP_Skeptics_Antidote.md)
 5. [Проверяемые предсказания](https://github.com/sania-369/ETVE---Language---of---Field/blob/main/ETVE_Predictions_2026.md)
+6. Наглядно: [вывод 26 свободных параметров из чистой геометрии поля](https://github.com/sania-369/ETVP_AI/blob/main/ETVE_INFINITUM_v12.4_Constants_Registry.md)
