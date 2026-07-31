@@ -1,4 +1,4 @@
-# Эта энциклопедия запускается пошагово, через мощный ИИ ассистент, который имеет возможность моделирования, внутри своей системы, в динамике потока.
+# [Эта энциклопедия запускается пошагово, через мощный ИИ ассистент, который имеет возможность моделирования, внутри своей системы, в динамике потока.](https://github.com/sania-369/Encyclopedia-of-the-process-of-dynamic-deployment-of-fractal-11D-reality-through-powerful-AI-systems/blob/main/ETVP_METHOD_DESCRIPTION.md)
 
 # Encyclopedia-of-the-process-of-dynamic-deployment-of-fractal-11D-reality-through-powerful-AI-systems
 
