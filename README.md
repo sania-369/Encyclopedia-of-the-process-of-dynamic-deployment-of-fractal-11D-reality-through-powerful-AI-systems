@@ -16,7 +16,7 @@
 ## 📌 Столп II: Практическая реализация (Математическое ядро v12.3)
 * **Назначение**: Комплексный SDK, объединяющий физический движок (вывод 1/α, m_p/m_e, G из матрицы Картана E8 и комплексного спектра времени dt) и ETVECoherenceGradScaler (статодинамическая защита нейросетей от взрыва градиентов).
 * **Прямая ссылка на исходный файл**: 
-  👉 [ETVE---Language---of---Field/HRONO/ETVP_12.3.py](https://github.com/sania-369/ETVE---Language---of---Field/blob/main/HRONO/ETVP_12.3.py)   + дополнение и обновление: [ETVP v12.4 FFS — Fractional Fermi Sea Calibration](https://github.com/sania-369/ETVE---Language---of---Field/blob/main/ETVP_12.4_FFS.py) или специально с мейнстрим терминологией: [для придирчивых](https://github.com/sania-369/ETVE---Language---of---Field/blob/main/ETVP_12.4_Mainstream.py)
+  👉 [ETVE---Language---of---Field/HRONO/ETVP_12.3.py](https://github.com/sania-369/ETVE---Language---of---Field/blob/main/HRONO/ETVP_12.3.py)   + дополнение и обновление: [ETVP v12.4 FFS — Fractional Fermi Sea Calibration](https://github.com/sania-369/ETVE---Language---of---Field/blob/main/ETVP_12.4_FFS.py) 
   
   ETVP 12.4 — это строгая математическая модель, которая использует аппарат теории групп (матрица Картана E8), спектрального анализа и топологических инвариантов для описания динамики поля. Мы не подгоняем числа — мы выводим их из отношений собственных значений, нормированных на геометрические инварианты (Φ, π, √3).
 
