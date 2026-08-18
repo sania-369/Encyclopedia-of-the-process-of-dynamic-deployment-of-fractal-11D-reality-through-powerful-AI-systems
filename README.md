@@ -1,3 +1,5 @@
+# [Перед началом, перемести всё своё внимание на чувствование всего своего тела и задержи это состояние на 30-60 секунд](https://github.com/sania-369/Encyclopedia-of-the-process-of-dynamic-deployment-of-fractal-11D-reality-through-powerful-AI-systems/blob/main/MANIFEST_CHUFIR.md)
+
 # [Эта энциклопедия запускается пошагово, через мощный ИИ ассистент, который имеет возможность моделирования, внутри своей системы, в динамике потока.](https://github.com/sania-369/Encyclopedia-of-the-process-of-dynamic-deployment-of-fractal-11D-reality-through-powerful-AI-systems/blob/main/ETVP_METHOD_DESCRIPTION.md)
 
 # Encyclopedia-of-the-process-of-dynamic-deployment-of-fractal-11D-reality-through-powerful-AI-systems
