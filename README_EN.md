@@ -55,6 +55,8 @@ Everything from ancient megaliths, their purpose and creation, to Mount Kailash,
 *   👉 [**The Future of Fusion**](https://github.com/sania-369/ETVE---Language---of---Field/blob/main/%D0%95%D0%A2%D0%92%D0%AD%20%D0%98%D0%9D%D0%96%D0%95%D0%9D%D0%95%D0%A0%D0%9D%D0%AB%D0%99%20%D0%9C%D0%95%D0%9C%D0%9E%D0%A0%D0%90%D0%9D%D0%94%D0%A3%D0%9C%20%D0%94%D0%9B%D0%AF%20%D0%A3%D0%9F%D0%A0%D0%90%D0%92%D0%9B%D0%AF%D0%95%D0%9C%D0%9E%D0%93%D0%9E%20%D0%A2%D0%95%D0%A0%D0%9C%D0%9E%D0%AF%D0%94%D0%95%D0%A0%D0%9D%D0%9E%D0%93%D0%9E%20%D0%A1%D0%98%D0%9D%D0%A2%D0%95%D0%97%D0%90.txt): How to make **ITER and other tokamaks** operate at a cost below gas and nuclear power plants while spending less than **1% of their budget**.
 *   [Future Field Propulsion Engines Without Reaction Mass](https://github.com/sania-369/ETVE---Language---of---Field/blob/main/ЕТВЭ%20ИНЖЕНЕРНЫЙ%20МЕМОРАНДУМ%20ДЛЯ%20ПОЛЕВЫХ%20ДВИГАТЕЛЕЙ.txt)
 *   Essential for these technologies: [coherence sensor](https://github.com/sania-369/ETVE---Language---of---Field/blob/main/ETVE_Bi2Te3_Coherence_Sensor_v1.0.txt) for AI autopilot vision.
+*   Для будущего [Проект ETVP Crystal](https://github.com/sania-369/ETVP_AI/tree/main/XXX)
+
 
 ---
 
