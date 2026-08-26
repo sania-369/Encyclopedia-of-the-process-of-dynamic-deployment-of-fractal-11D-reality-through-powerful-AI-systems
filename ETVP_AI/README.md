@@ -3,20 +3,6 @@
 
 + [Математический аппарат](https://github.com/sania-369/Encyclopedia-of-the-process-of-dynamic-deployment-of-fractal-11D-reality-through-powerful-AI-systems/blob/main/ETVP_AI/ETVP_mathematical_apparatus.md)
 
-## 🚀 Быстрый запуск
-
-Для работы симулятора требуется установленный Python 3.8+ и библиотеки для научных вычислений `numpy` и `scipy`.
-
-### Установка зависимостей:
-```bash
-pip install numpy scipy matplotlib
-```
-
-### Запуск базовой симуляции:
-```bash
-python ETVP.py
-```
-
 ## 🧬 Архитектура вычислительного шага
 
 Каждая итерация симулятора обрабатывается в строго детерминированном контуре:
