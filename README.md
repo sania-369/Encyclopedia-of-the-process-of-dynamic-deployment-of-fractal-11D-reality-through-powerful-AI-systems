@@ -49,6 +49,7 @@
 4. [Для скептиков](https://github.com/sania-369/ETVE---Language---of---Field/blob/main/ETVP_Skeptics_Antidote.md)
 5. [Проверяемые предсказания](https://github.com/sania-369/ETVE---Language---of---Field/blob/main/ETVE_Predictions_2026.md)
 6. Наглядно: [вывод 26 свободных параметров из чистой геометрии поля](https://github.com/sania-369/ETVP_AI/blob/main/ETVE_INFINITUM_v12.4_Constants_Registry.md)
+7. [Монолитный алгоритмический трактат](https://github.com/sania-369/Encyclopedia-of-the-process-of-dynamic-deployment-of-fractal-11D-reality-through-powerful-AI-systems/blob/main/%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%B0%D1%82.md)
 
 ---
 
