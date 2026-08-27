@@ -1,5 +1,4 @@
-# $\boxed{
-\Psi = \frac{\Phi \cdot C}{\sqrt{S + \varepsilon}}
+# $\Psi = \frac{\Phi \cdot C}{\sqrt{S + \varepsilon}}
 \quad \Longleftrightarrow \quad
 C = \frac{\Phi}{\sqrt{3}} \cdot \tanh\left( \frac{\nabla \Psi}{S_{\text{ext}} + S_{\text{int}}} \right)
 }$
