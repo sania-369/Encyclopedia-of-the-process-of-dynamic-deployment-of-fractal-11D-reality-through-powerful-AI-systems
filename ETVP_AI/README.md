@@ -1,9 +1,4 @@
-# $\Psi = \frac{\Phi \cdot C}{\sqrt{S + \varepsilon}}
-\quad \Longleftrightarrow \quad
-C = \frac{\Phi}{\sqrt{3}} \cdot \tanh\left( \frac{\nabla \Psi}{S_{\text{ext}} + S_{\text{int}}} \right)
-}$
-
-# Дискретно-итерационный нелинейный симулятор фазовых объёмов матричных спектров.
+ # Дискретно-итерационный нелинейный симулятор фазовых объёмов матричных спектров.
 ## Файл [ETVP](https://github.com/sania-369/Encyclopedia-of-the-process-of-dynamic-deployment-of-fractal-11D-reality-through-powerful-AI-systems/blob/main/ETVP.py)  реализует алгоритмический метод пошагового численного моделирования открытой многомерной квантовой системы.
 
 > **ПРИМЕЧАНИЕ О ТОПОЛОГИИ ВЫЧИСЛЕНИЙ:**
