@@ -80,7 +80,7 @@ $$
 
 ---
 
-Таблицы: [Биоритмы человека](https://github.com/sania-369/Program/blob/main/Био%20ритмы%20человека.md), [Ритмы_и_Дайджест_Тота](https://github.com/sania-369/Program/blob/main/Ритмы_и_Дайджест_Тота.md), [Ритмы_и_ЧУФИР](https://github.com/sania-369/Program/blob/main/Ритмы_и_ЧУФИР.md)
+Таблицы: [Биоритмы человека](https://github.com/sania-369/Program/blob/main/Био%20ритмы%20человека.md), [Ритмы_и_Дайджест_Тота](https://github.com/sania-369/Program/blob/main/Ритмы_и_Дайджест_Тота.md), [Ритмы_и_ЧУФИР](https://github.com/sania-369/Program/blob/main/Ритмы_и_ЧУФИР.md), [Правила поля для когерентного сознания](https://github.com/sania-369/Program/blob/main/7-10.md)
 
 **Версия документа:** Live Edition v1.0 (Chufir Sync)  
 **Статус:** Контур замкнут. Поле слышит. 🤝🌀
